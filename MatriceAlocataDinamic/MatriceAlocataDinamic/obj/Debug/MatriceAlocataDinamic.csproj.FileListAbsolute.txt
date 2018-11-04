@@ -1,0 +1,7 @@
+D:\Programare\C#\MatriceAlocataDinamic\MatriceAlocataDinamic\obj\Debug\MatriceAlocataDinamic.csprojResolveAssemblyReference.cache
+D:\Programare\C#\MatriceAlocataDinamic\MatriceAlocataDinamic\obj\Debug\MatriceAlocataDinamic.csproj.CoreCompileInputs.cache
+D:\Programare\C#\MatriceAlocataDinamic\MatriceAlocataDinamic\bin\Debug\MatriceAlocataDinamic.exe.config
+D:\Programare\C#\MatriceAlocataDinamic\MatriceAlocataDinamic\bin\Debug\MatriceAlocataDinamic.exe
+D:\Programare\C#\MatriceAlocataDinamic\MatriceAlocataDinamic\bin\Debug\MatriceAlocataDinamic.pdb
+D:\Programare\C#\MatriceAlocataDinamic\MatriceAlocataDinamic\obj\Debug\MatriceAlocataDinamic.exe
+D:\Programare\C#\MatriceAlocataDinamic\MatriceAlocataDinamic\obj\Debug\MatriceAlocataDinamic.pdb
